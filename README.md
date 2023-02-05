@@ -1,2 +1,2 @@
 # next-gen-tagger
-Next Generation Tagger
+Next Generation Tagger UI
